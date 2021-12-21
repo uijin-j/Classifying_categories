@@ -31,6 +31,7 @@ Classifying preduct categories using Kakao Arena data
 | output layer activation | Softmax(1개의 class에만 할당될 수 있어서!) |
 | Loss function | Cross entropy(Classification 문제라서!) |  
 <br>
+
 ## 4. 라이브러리
 #### 
     keras  

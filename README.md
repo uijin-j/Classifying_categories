@@ -1,18 +1,23 @@
 # 상품 분류를 해보자🛒
 
-Classifying preduct categories using Kakao Arena data
+Classifying preduct categories using Kakao Arena data  
+
+‼️) 모든 코드는 classifier.ipynb에 있으며 데이터는 data 폴더에 있다!  
+‼️) 데이터 크기가 크기 때문에 [카카오 아레나](https://arena.kakao.com/c/5/data)에서 cate1.json, train.chunk.01 데이터를 다운 받아서 코드를 돌려야 된다!)
 
 ## 1. 문제 정의
 **상품의 이미지 정보를 가지고 상품을 대분류로 나눠보자!**   
 ☑️ 원래 상품에는 대/중/소/세 4가지 분류가 있지만, 이 프로젝트에서는 대분류만 나눠본다!  
 ☑️ 상품 정보는 상품명, 브랜드,  제조사 등 다양하지만, 이 프로젝트에서는 이미지 정보만 가지고 분류한다!  
 <br>
+
 ## 2. 데이터
 [카카오 아레나](https://arena.kakao.com/c/5) '쇼핑몰 상품 카테고리 분류'에서 제공해주는 데이터셋
 
 - 데이터 크기 : 1,000,000개
 - feature :  상품명, 이미지, 브랜드 ...  
 <br>
+
 ## 3. 모델
 **DNN**를 사용한다!  
 

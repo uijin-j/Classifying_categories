@@ -3,7 +3,7 @@
 Classifying preduct categories using Kakao Arena data  
 
 ‼️ 모든 코드는 classifier.ipynb에 있으며 데이터는 data 폴더에 있다!  
-‼️ 데이터 크기가 크기 때문에 [카카오 아레나](https://arena.kakao.com/c/5/data)에서 cate1.json, train.chunk.01 데이터를 다운 받아서 코드를 돌려야 된다!)
+‼️ 데이터 크기가 크기 때문에 [카카오 아레나](https://arena.kakao.com/c/5/data)에서 cate1.json, train.chunk.01 데이터를 다운 받아서 코드를 돌려야 된다!
 
 ## 1. 문제 정의
 **상품의 이미지 정보를 가지고 상품을 대분류로 나눠보자!**   

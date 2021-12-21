@@ -14,7 +14,7 @@ Classifying preduct categories using Kakao Arena data
 ## 2. 데이터
 [카카오 아레나](https://arena.kakao.com/c/5) '쇼핑몰 상품 카테고리 분류'에서 제공해주는 데이터셋
 
-- 데이터 크기 : 1,000,000개
+- 데이터 크기 : 1,000,000개 (메모리 Error로 10,000개만 사용했다..!)
 - feature :  상품명, 이미지, 브랜드 ...  
 <br>
 
